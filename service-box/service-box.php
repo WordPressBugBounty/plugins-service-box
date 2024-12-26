@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Service Box
- * Version: 1.5.7
+ * Version: 1.5.8
  * Description:  Service Box plugin is manage your showcase of your services. Easily add unlimited services box with drag and drop builder Api.
  * Author: wpshopmart
  * Author URI: https://wpshopmart.com/

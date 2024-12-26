@@ -3,8 +3,8 @@ Contributors: wpshopmart
 Donate link: https://www.wpshopmart.com
 Tags: services, service box, services showcase, icon box, info box   
 Requires at least: 5.0
-Tested up to: 6.6
-Stable tag: 1.5.7
+Tested up to: 6.7.1
+Stable tag: 1.5.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -120,6 +120,9 @@ Please use WordPress support forum to ask any query regarding any issue.
 6. screenshot 6
 
 == Changelog ==
+
+= 1.5.8 =
+* Compatible with wordpress version 6.7.1
 
 = 1.5.7 =
 * Compatible with wordpress version 6.6
